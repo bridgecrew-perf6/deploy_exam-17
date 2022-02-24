@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/res/css/common.css?ver=2">
-    <title>List</title>
+    <title>리스트</title>
 </head>
 <body>
     <h1>List</h1>
